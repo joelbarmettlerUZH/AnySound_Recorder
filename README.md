@@ -109,6 +109,7 @@ SOFTWARE.
 
 
 
+Hire us: [Software Entwickler in Zürich](https://polygon-software.ch)!
 
 
 
